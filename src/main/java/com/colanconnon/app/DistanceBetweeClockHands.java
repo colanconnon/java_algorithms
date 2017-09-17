@@ -1,4 +1,4 @@
-package com.colanconnon;
+package com.colanconnon.app;
 
 /**
  * Created by colanconnon on 1/28/17.

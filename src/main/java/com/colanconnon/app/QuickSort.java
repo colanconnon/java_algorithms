@@ -1,4 +1,4 @@
-package com.colanconnon;
+package com.colanconnon.app;
 
 import java.util.Arrays;
 

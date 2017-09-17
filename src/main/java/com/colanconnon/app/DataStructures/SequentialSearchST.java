@@ -1,4 +1,4 @@
-package com.colanconnon.DataStructures;
+package com.colanconnon.app.DataStructures;
 
 /**
  * Created by colanconnon on 2/1/17.

@@ -1,4 +1,4 @@
-package com.colanconnon.DataStructures;
+package com.colanconnon.app.DataStructures;
 
 import java.util.ArrayList;
 import java.util.List;
